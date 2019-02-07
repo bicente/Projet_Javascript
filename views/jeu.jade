@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    head
+        link(rel="stylesheet" href="/bootstrap/bootstrap.css")
+        link(rel="stylesheet" href="/bootstrap/no_bootstrap/Projet.css")
+    body
+        each user, i in jeu
+            form(action='/retour',method='post',class="col-md-12 Proposition1")
+                div(class="col-md-6")
+                    input(id='inputid',type='hidden',value='#{user.Id}',name='id')
+                    input(id='inputnum',type='hidden',value='#{numero}',name='num')
+                    input(id='inputchoix',type='hidden',value='#{user.proposition1}',name='choix')
+                    input(class="btn btn-primary btn-lg Blanc",type='submit',value='#{user.proposition1}')
+            form(action='/retour',method='post',class="col-md-12 Proposition2")
+                div(class="col-md-6")
+                    input(id='inputid',type='hidden',value='#{user.Id}',name='id')
+                    input(id='inputnum',type='hidden',value='#{numero}',name='num')
+                    input(id='inputchoix',type='hidden',value='#{user.proposition2}',name='choix')
+                    input(class="btn btn-primary btn-lg Noir",type='submit',value='#{user.proposition2}')
+                
+            

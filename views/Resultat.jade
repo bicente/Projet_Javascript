@@ -1,0 +1,32 @@
+extends layout
+block content
+	head
+		link(rel="stylesheet" href="/bootstrap/bootstrap.css")
+		link(rel="stylesheet" href="/bootstrap/no_bootstrap/Projet.css")
+	body
+		each gage, i in Resultat
+			div(class="row" style="margin-top: 0%;")
+				div(class="col-md-12")
+					div(class="col-sm-12 Joueur1")
+						each ch1 in j1Choix
+							h1(class="SousTitres")
+							ul
+								ol Réponse : #{ch1}
+					div(class="col-sm-12 Joueur2")
+						each ch2 in j2Choix
+							h1(class="SousTitres")
+							ul
+								ol Réponse : #{ch2}
+				div(class="col-md-12")
+					div(class="col-sm-12 Joueur1")
+						h1(class="SousTitres") Pourcentage de réponses similaires
+							p(class="gage" style="font-size: 50px;") #{pourcen}%
+					div(class="col-sm-12 Joueur2")
+						h1(class="SousTitres") Gage aléatoire
+							p(class="gage" style="font-size: 50px;") #{gage.gage}
+				div(class="col-md-12")
+					<button type="button" class="btn btn-primary btn-lg Noir" onclick="redirect_to_acceuil()">Retour au menu</button>
+					script.
+						function redirect_to_acceuil() {
+							window.location.href = '/'}			
+		

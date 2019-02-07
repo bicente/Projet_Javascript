@@ -1,0 +1,96 @@
+_id,Id,proposition1,proposition2
+ObjectId(5c557a0c3ea6ef2e14bd9807),1,The,Cafe
+ObjectId(5c557a0c3ea6ef2e14bd9808),2,Facebook,Twitter
+ObjectId(5c557a0c3ea6ef2e14bd9809),3,Samedi,Dimanche
+ObjectId(5c557a0c3ea6ef2e14bd980a),4,Lundi,Vendredi
+ObjectId(5c557a0c3ea6ef2e14bd980b),5,Beyonce,Rihanna
+ObjectId(5c557a0c3ea6ef2e14bd980c),6,Foot,Rugby
+ObjectId(5c557a0c3ea6ef2e14bd980d),7,Chien,Chat
+ObjectId(5c557a0c3ea6ef2e14bd980e),8,Film,Serie
+ObjectId(5c557a0c3ea6ef2e14bd980f),9,Aya Nakamura,VegeDream
+ObjectId(5c557a0c3ea6ef2e14bd9810),10,McDo,Quick
+ObjectId(5c557a0c3ea6ef2e14bd9811),11,Booba,Kaaris
+ObjectId(5c557a0c3ea6ef2e14bd9812),12,Tele,Youtube
+ObjectId(5c557a0c3ea6ef2e14bd9813),13,Barbe,Moustache
+ObjectId(5c557a0c3ea6ef2e14bd9814),14,Boire,Conduire
+ObjectId(5c557a0c3ea6ef2e14bd9815),15,Jogging,Costard
+ObjectId(5c557a0c3ea6ef2e14bd9816),16,Ete,Hiver
+ObjectId(5c557a0c3ea6ef2e14bd9817),17,Asterix,Obelix
+ObjectId(5c557a0c3ea6ef2e14bd9818),18,Omar,Fred
+ObjectId(5c557a0c3ea6ef2e14bd9819),19,Dinosaures,Mutant
+ObjectId(5c557a0c3ea6ef2e14bd981a),20,Snapchat,Instagram
+ObjectId(5c557a0c3ea6ef2e14bd981b),21,Youtube,Dailymotion
+ObjectId(5c557a0c3ea6ef2e14bd981c),22,Perrier,Badoit
+ObjectId(5c557a0c3ea6ef2e14bd981d),23,Xbox One,PS4
+ObjectId(5c557a0c3ea6ef2e14bd981e),24,Iphone,Samsung
+ObjectId(5c557a0c3ea6ef2e14bd981f),25,Pepsi,Coca
+ObjectId(5c557a0c3ea6ef2e14bd9820),26,GoT,Vikings
+ObjectId(5c557a0c3ea6ef2e14bd9821),27,Breaking Bad,Walking Dead
+ObjectId(5c557a0c3ea6ef2e14bd9822),28,Ski,Snow
+ObjectId(5c557a0c3ea6ef2e14bd9823),29,BIC,Stylo plume
+ObjectId(5c557a0c3ea6ef2e14bd9824),30,Lamborgini,Ferrari
+ObjectId(5c557a0c3ea6ef2e14bd9825),31,Leve tot,Leve tard
+ObjectId(5c557a0c3ea6ef2e14bd9826),32,Mbappe,Zidane
+ObjectId(5c557a0c3ea6ef2e14bd9827),33,Bras,Chocolat
+ObjectId(5c557a0c3ea6ef2e14bd9828),34,Destin,Karma
+ObjectId(5c557a0c3ea6ef2e14bd9829),35,Squeezie,Amixem
+ObjectId(5c557a0c3ea6ef2e14bd982a),36,Bob Marley,Bob Sinclar
+ObjectId(5c557a0c3ea6ef2e14bd982b),37,Bob l'eponge,Franklin
+ObjectId(5c557a0c3ea6ef2e14bd982c),38,Claquettes,Ballerines
+ObjectId(5c557a0c3ea6ef2e14bd982d),39,Superman,Batman
+ObjectId(5c557a0c3ea6ef2e14bd982e),40,La mort,Tchetche
+ObjectId(5c557a0c3ea6ef2e14bd982f),41,Sucre,Sale
+ObjectId(5c557a0c3ea6ef2e14bd9830),42,Marvel,DC Comics
+ObjectId(5c557a0c3ea6ef2e14bd9831),43,Thor,Hulk
+ObjectId(5c557a0c3ea6ef2e14bd9832),44,Captain America,Iron Man
+ObjectId(5c557a0c3ea6ef2e14bd9833),45,Visionnaire,Millionaire
+ObjectId(5c557a0c3ea6ef2e14bd9834),46,Big Flo & Oli,Orelsan et Gringe
+ObjectId(5c557a0c3ea6ef2e14bd9835),47,Mc Fly,Carlito
+ObjectId(5c557a0c3ea6ef2e14bd9836),48,Laink,Terracid
+ObjectId(5c557a0c3ea6ef2e14bd9837),49,Bigorneaux,Coquillages
+ObjectId(5c557a0c3ea6ef2e14bd9838),50,Action,Verite
+ObjectId(5c557a0c3ea6ef2e14bd9839),51,Ketchup,Moutarde
+ObjectId(5c557a0c3ea6ef2e14bd983a),52,Bart,Lisa
+ObjectId(5c557a0c3ea6ef2e14bd983b),53,Declerck,Richard
+ObjectId(5c557a0c3ea6ef2e14bd983c),54,Star Wars,LoTR
+ObjectId(5c557a0c3ea6ef2e14bd983d),55,Pain au chocolat,Chocolatine
+ObjectId(5c557a0c3ea6ef2e14bd983e),56,Sangoku,Vegeta
+ObjectId(5c557a0c3ea6ef2e14bd983f),57,Lait d'abord,Cereales d'abord
+ObjectId(5c557a0c3ea6ef2e14bd9840),58,Messi,Ronaldo
+ObjectId(5c557a0c3ea6ef2e14bd9841),59,Couverts,Baguettes
+ObjectId(5c557a0c3ea6ef2e14bd9842),60,Blonde,Brune
+ObjectId(5c557a0c3ea6ef2e14bd9843),61,La haine,l'Amour
+ObjectId(5c557a0c3ea6ef2e14bd9844),62,Gad Elmaleh,Jamel Debbouze
+ObjectId(5c557a0c3ea6ef2e14bd9845),63,Ville,Campagne
+ObjectId(5c557a0c3ea6ef2e14bd9846),64,Plage,Montagne
+ObjectId(5c557a0c3ea6ef2e14bd9847),65,Paris,Marseille
+ObjectId(5c557a0c3ea6ef2e14bd9848),66,Long,Large
+ObjectId(5c557a0c3ea6ef2e14bd9849),67,Fesses,Seins
+ObjectId(5c557a0c3ea6ef2e14bd984a),68,Gaspard,Baltazar
+ObjectId(5c557a0c3ea6ef2e14bd984b),69,Deezer,Spotify
+ObjectId(5c557a0c3ea6ef2e14bd984c),70,Justin Bieber,Justin Timberlake
+ObjectId(5c557a0c3ea6ef2e14bd984d),71,Presse,Tele
+ObjectId(5c557a0c3ea6ef2e14bd984e),72,Gilets jaunes,Foulards rouges
+ObjectId(5c557a0c3ea6ef2e14bd984f),73,Clavier,Crayon
+ObjectId(5c557a0c3ea6ef2e14bd9850),74,Tarantino,Kubrick
+ObjectId(5c557a0c3ea6ef2e14bd9851),75,Piscine,Mer
+ObjectId(5c557a0c3ea6ef2e14bd9852),76,Di Caprio,Brad Pitt
+ObjectId(5c557a0c3ea6ef2e14bd9853),77,Bradley Cooper,Jean Dujardin
+ObjectId(5c557a0c3ea6ef2e14bd9854),78,Pele,Maradonna
+ObjectId(5c557a0c3ea6ef2e14bd9855),79,Histoire,Geographie
+ObjectId(5c557a0c3ea6ef2e14bd9856),80,Queen,Led Zepplin
+ObjectId(5c557a0c3ea6ef2e14bd9857),81,Maths,Francais
+ObjectId(5c557a0c3ea6ef2e14bd9858),82,Futur,Passe
+ObjectId(5c557a0c3ea6ef2e14bd9859),83,Entree,Dessert
+ObjectId(5c557a0c3ea6ef2e14bd985a),84,Pink Floyd,The Police
+ObjectId(5c557a0c3ea6ef2e14bd985b),85,The Who,Aerosmith
+ObjectId(5c557a0c3ea6ef2e14bd985c),86,Voler,Se teleporter
+ObjectId(5c557a0c3ea6ef2e14bd985d),87,Lebron James,Kobe Bryant
+ObjectId(5c557a0c3ea6ef2e14bd985e),88,Eau plate,Eau petillante
+ObjectId(5c557a0c3ea6ef2e14bd985f),89,Laser Game,Afterwork BDS
+ObjectId(5c557a0c3ea6ef2e14bd9860),90,PlayStation,XBOX
+ObjectId(5c557a0c3ea6ef2e14bd9861),91,SAGI,QIF
+ObjectId(5c557a0c3ea6ef2e14bd9862),92,MIS ISTIA,Miss France
+ObjectId(5c557a0c3ea6ef2e14bd9863),93,Telephone,Mail
+ObjectId(5c557a0c3ea6ef2e14bd9864),94,Resto U,Americain
+ObjectId(5c557a0c3ea6ef2e14bd9865),95,Fast and Curious,Fast and Furious

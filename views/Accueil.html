@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+		<link rel="stylesheet" href="/bootstrap/bootstrap.css">
+		<link rel="stylesheet" href="/bootstrap/no_bootstrap/Projet.css">
+		<!-- <script src="/routes/index.js"></script> -->
+	</head>
+	<body>
+		<div class="col-md-12 Jouer">
+			<button type="button" class="btn btn-primary btn-lg Noir" onclick="redirect_to_jeu()">Jouer</button>
+		</div>
+		<div class="col-md-12 ReglesCredits">
+			<button type="button" class="btn btn-primary btn-lg Blanc" onclick="redirect_to_credits()">Regles & Credits</button>
+		</div>
+		<script>
+                function redirect_to_jeu() {
+					sessionStorage.setItem("NumQuestion",1);
+					window.location.href = '/jeu'}
+				function redirect_to_credits() {
+					window.location.href = '/Credits'}
+		</script>
+	</body>
+</html>
